@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+#this is the code 
 def analyze_inventory_turnover():
     """
     Analyzes the inventory turnover ratio and generates a visualization.
