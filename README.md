@@ -10,6 +10,20 @@ The following chart illustrates our quarterly inventory turnover ratio compared 
 
 ![Inventory Turnover Analysis](inventory_turnover_chart.png)
 
+
+
+
+
+
+Inventory Turnover Ratio - 2024 Quarterly Data:
+Q1: 5.2
+Q2: 3.18
+Q3: 7.98
+Q4: 6.6
+Average: 5.74
+
+Industry Target: 8
+
 ## Key Findings
 
 - **Quarterly Performance Fluctuation:** The inventory turnover ratio shows significant volatility throughout the year, with a low of 3.18 in Q2 and a high of 7.98 in Q3.
